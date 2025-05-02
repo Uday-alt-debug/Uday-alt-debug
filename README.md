@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uday Naidu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5hZzQ1czBodHRoaDhoeHBnbW1tcWFucHQ1c3hnczdtdnNnYWVlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uday-alt-debug&label=Profile%20views&color=0e75b6&style=flat" alt="uday-alt-debug" /> </p>
